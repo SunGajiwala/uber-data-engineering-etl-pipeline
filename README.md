@@ -2,7 +2,7 @@
 
 ![model_diagram](https://github.com/SunGajiwala/uber-data-engineering-etl-pipeline/blob/main/architecture.jpg?raw=true)
 
-This repository contains code and documentation for building a robust data engineering pipeline to analyze Uber data. The pipeline is designed using Google Cloud Platform (GCP) services including BigQuery and Looker for data storage, processing, and visualization.
+This repository contains code and documentation for building a robust data engineering pipeline to analyze Uber data. The pipeline is designed using Google Cloud Platform (GCP) services including Make-AI, BigQuery and Looker for data storage, processing, and visualization.
 
 ## Overview
 
