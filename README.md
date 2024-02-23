@@ -18,9 +18,15 @@ The data engineering pipeline outlined in this repository aims to:
 
 # Technologies Used
 
-Google Cloud Platform (GCP)
--- Compute Engine: For running Mage-AI
--- BigQuery: For data warehousing and analytics
--- Cloud Storage: For storing raw data files
-Looker: For data visualization and exploration
-Make-AI: To build ETL data engineering pipeline
+-> Google Cloud Platform (GCP)
+*  Compute Engine: For running Mage-AI
+*  BigQuery: For data warehousing and analytics
+*  Cloud Storage: For storing raw data files
+  
+-> Looker: For data visualization and exploration
+
+-> Make-AI: To build ETL data engineering pipeline
+
+# Looker Dashboard
+
+Access the looker dashboard using this [uber_data_analytics](https://lookerstudio.google.com/reporting/b7ed88eb-960f-4d63-a7b5-7aec3a9ebb5d)
